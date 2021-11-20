@@ -4,9 +4,35 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/daeade25/source/repos/CrabFish/CrabFish/Content/Board1.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/b_bishop.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/b_king.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/b_knight.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/b_pawn.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/b_queen.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/b_rook.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/chessgrille.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/w_bishop.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/w_king.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/w_knight.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/w_pawn.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/w_queen.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/w_rook.png</File>
+    <File>C:/Users/surge/source/repos/CrabFish/CrabFish/Content/w-projectile.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>
