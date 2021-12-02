@@ -41,6 +41,16 @@ namespace CrabFish
 
         }
 
+        public void Select((int, int) pos)
+        {
+
+            if (pos == this.pos && !selected)
+                selected = true;
+            else
+                selected = false; 
+
+        }
+
         public string GetName()
         {
 

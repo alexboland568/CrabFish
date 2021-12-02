@@ -1,4 +1,3 @@
-C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\Board1.xnb
 C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\CrabFish.exe
 C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\CrabFish.deps.json
 C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\CrabFish.runtimeconfig.json
@@ -59,3 +58,18 @@ C:\Users\surge\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\w_
 C:\Users\surge\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\w_queen.xnb
 C:\Users\surge\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\w_rook.xnb
 C:\Users\surge\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\w-projectile.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\b_bishop.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\b_king.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\b_knight.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\b_pawn.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\b_queen.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\b_rook.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\chessgrille.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\w-projectile.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\w_bishop.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\w_king.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\w_knight.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\w_pawn.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\w_queen.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\w_rook.xnb
+C:\Users\daeade25\source\repos\CrabFish\CrabFish\bin\Debug\netcoreapp3.1\Content\b-projectile.xnb
